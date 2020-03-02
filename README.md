@@ -1,6 +1,6 @@
 ## Spring, Spring MVC, Spring Security, Spring-Boot, Microservices Interview Questions and Answers
 
-*Click <img src="https://github.com/Sathish2905/spring-interview-questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
+*Click <img src="https://github.com/Sathish2905/spring_interview_questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
 
 ### Table of Contents
 
@@ -1026,7 +1026,7 @@ This indicate that the annotate classes at presentation layers level, mainly use
 * **@Service**
 <code>@Service</code> beans hold the business logic and call methods in the repository layer.
 
-![alt text](https://github.com/learning-zone/spring-interview-questions/blob/spring/assets/spring-component.png)
+![alt text](https://github.com/Sathish2905/spring_interview_questions/blob/spring/assets/spring-component.png)
 
 #### Q. How to do SSO implementation using Spring Boot?
 Single sign-on (or SSO) allow users to use a single set of credentials to login into multiple related yet independent web applications. SSO is achieved by implementing a centralised login system that handles authentication of users and share that information with applications that need that data.
@@ -2189,7 +2189,7 @@ public class Swagger2UiConfiguration extends WebMvcConfigurerAdapter
 ```
  http://localhost:8080/swagger2-demo/swagger-ui.html
 ```
-![alt text](https://github.com/learning-zone/spring-interview-questions/blob/spring/assets/Swagger2-UI-Docs-without-Annotations.png)
+![alt text](https://github.com/Sathish2905/spring_interview_questions/blob/spring/assets/Swagger2-UI-Docs-without-Annotations.png)
 
 #### Q. How to implement Pagination and Sorting in Spring Boot?
 * **JPA Entity**: 
@@ -3142,7 +3142,7 @@ WebSocket is a protocol which enables communication between the server and the b
 
 Following are some of the drawbacks of HTTP due to which they are unsuitable for certain scenarios-
 
-![alt text](https://github.com/learning-zone/spring-interview-questions/blob/spring/assets/http-request.jpg)
+![alt text](https://github.com/Sathish2905/spring_interview_questions/blob/spring/assets/http-request.jpg)
 
 * **Traditional HTTP** requests are unidirectional - In traditional client server communication, the client always initiates the * request.
 * **Half Duplex** - User requests for a resource and the server then serves it to the client. The response is only sent after the request. So at a time only a single request occurs.
@@ -3151,7 +3151,7 @@ Following are some of the drawbacks of HTTP due to which they are unsuitable for
 
 WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection.
 
-![alt text](https://github.com/learning-zone/spring-interview-questions/blob/spring/assets/web-socket.jpg)
+![alt text](https://github.com/Sathish2905/spring_interview_questions/blob/spring/assets/web-socket.jpg)
 
 * **WebSocket are bi-directional** - Using WebSocket either client or server can initiate sending a message.
 * **WebSocket are Full Duplex** - The client and server communication is independent of each other.
